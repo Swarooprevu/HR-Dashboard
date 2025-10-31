@@ -15,7 +15,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 ### 1. **Workforce Demographics**
 - Active workforce distribution by **gender, race, marital status, state, and age**.  
 - Visual insights into **organizational diversity and representation**.
-<img width="893" height="781" alt="Screenshot 2025-11-01 021102" src="https://github.com/user-attachments/assets/441c4721-74f3-4a9e-ba83-f49a79b48704" />
+<img width="526" height="476" alt="image" src="https://github.com/user-attachments/assets/596d6473-596f-4ff6-9712-2587d54ad9a8" />
 
 ### 2. **Compensation & Role Insights**
 - **Average salary analysis** by department and performance score.  
@@ -51,6 +51,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 | **Average Salary** | ₹69,021 |
 | **Max Salary** | ₹2,50,000 |
 | **Min Salary** | ₹45,046 |
+<img width="471" height="218" alt="image" src="https://github.com/user-attachments/assets/ba1481e5-480a-440c-9797-149db3dd8d52" />
 
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop** for data visualization and analytics  
