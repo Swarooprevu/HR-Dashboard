@@ -32,7 +32,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 - Overall **attrition rate:** ~40% (104 of 311 employees).  
 - Top attrition causes: *career change, better pay, unhappiness, another position.*  
 - Department-wise breakdown of **terminated employees**.
-<img width="671" height="735" alt="Screenshot 2025-11-01 021738" src="https://github.com/user-attachments/assets/0bf82574-4cfd-41fa-be9d-d938af79e069" />
+<img width="767" height="407" alt="image" src="https://github.com/user-attachments/assets/c08fe796-cd57-41d6-8bdd-16aef6cc009d" />
 
 ### 5. **Engagement & Attendance**
 - Correlation between **engagement scores, satisfaction levels, and absenteeism**.  
