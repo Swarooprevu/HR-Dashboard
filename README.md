@@ -15,29 +15,29 @@ It provides a holistic view of **employee demographics, compensation, performanc
 ### 1. **Workforce Demographics**
 - Active workforce distribution by **gender, race, marital status, state, and age**.  
 - Visual insights into **organizational diversity and representation**.
-<img width="893" height="781" alt="Screenshot 2025-11-01 021102" src="https://github.com/user-attachments/assets/9bbfbc46-5651-488a-babc-521aa0d5f41e" />
+<img width="893" height="781" alt="Screenshot 2025-11-01 021102" src="https://github.com/user-attachments/assets/441c4721-74f3-4a9e-ba83-f49a79b48704" />
 
 ### 2. **Compensation & Role Insights**
 - **Average salary analysis** by department and performance score.  
 - Correlation between **salary, job role, and performance levels**.  
 - Comparative view of **headcount vs average salary** by department.
-<img width="431" height="317" alt="image" src="https://github.com/user-attachments/assets/3ba533b0-e160-4111-af14-2dbf66f616df" />
+<img width="861" height="633" alt="Screenshot 2025-11-01 021521" src="https://github.com/user-attachments/assets/d5e32bfe-2cb9-4f5a-86ec-f639fe684b3c" />
 
 ### 3. **Manager & Team Insights**
 - **Employee distribution** by manager and performance rating.  
 - **Average engagement score and headcount** per manager, highlighting leadership impact.
-<img width="335" height="417" alt="image" src="https://github.com/user-attachments/assets/18373cf0-0aba-4098-838e-be4b943ced40" />
+<img width="669" height="834" alt="Screenshot 2025-11-01 021823" src="https://github.com/user-attachments/assets/ec2e5038-d229-4a6a-bb10-fa32b72a93bc" />
 
 ### 4. **Attrition & Retention**
 - Overall **attrition rate:** ~40% (104 of 311 employees).  
 - Top attrition causes: *career change, better pay, unhappiness, another position.*  
 - Department-wise breakdown of **terminated employees**.
-<img width="335" height="368" alt="image" src="https://github.com/user-attachments/assets/17a35b3b-7343-4dcd-8d4e-5e3f4817cf83" />
+<img width="671" height="735" alt="Screenshot 2025-11-01 021738" src="https://github.com/user-attachments/assets/0bf82574-4cfd-41fa-be9d-d938af79e069" />
 
 ### 5. **Engagement & Attendance**
 - Correlation between **engagement scores, satisfaction levels, and absenteeism**.  
 - Identification of departments with **high absence–low performance** patterns.
-<img width="335" height="182" alt="image" src="https://github.com/user-attachments/assets/16f3ec3e-cd6f-4291-b46a-d7eb09dcf216" />
+<img width="669" height="363" alt="Screenshot 2025-11-01 021908" src="https://github.com/user-attachments/assets/1a2ef533-0320-4170-83f0-b0e2a50cfd3f" />
 
 ## 📈 Metrics Summary
 
