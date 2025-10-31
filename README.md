@@ -64,5 +64,5 @@ It provides a holistic view of **employee demographics, compensation, performanc
 - Supports **strategic HR decisions** through real-time visualization and interactive filters.
 
 ## 📂 Project Created By
-** Narasimha Swaroop Revu**  
+**Narasimha Swaroop Revu**  
 *Data Analyst & Power BI Enthusiast*
