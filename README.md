@@ -1,4 +1,4 @@
-![ghostriley](https://github.com/user-attachments/assets/5acbd409-438f-48a9-84ec-bd2f41c0e84b)# HR Analytics Dashboard – Power BI
+# HR Analytics Dashboard – Power BI
 
 ## 📊 Project Overview
 The **HR Analytics Dashboard** is an interactive **Power BI project** designed to analyze and visualize workforce data for **data-driven decision-making** in human resource management.  
