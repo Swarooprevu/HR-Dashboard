@@ -21,7 +21,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 - **Average salary analysis** by department and performance score.  
 - Correlation between **salary, job role, and performance levels**.  
 - Comparative view of **headcount vs average salary** by department.
-<img width="861" height="633" alt="Screenshot 2025-11-01 021521" src="https://github.com/user-attachments/assets/d5e32bfe-2cb9-4f5a-86ec-f639fe684b3c" />
+<img width="650" height="478" alt="image" src="https://github.com/user-attachments/assets/859a9833-dc9f-465b-99b6-3166ad064137" />
 
 ### 3. **Manager & Team Insights**
 - **Employee distribution** by manager and performance rating.  
@@ -32,7 +32,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 - Overall **attrition rate:** ~40% (104 of 311 employees).  
 - Top attrition causes: *career change, better pay, unhappiness, another position.*  
 - Department-wise breakdown of **terminated employees**.
-<img width="767" height="407" alt="image" src="https://github.com/user-attachments/assets/c08fe796-cd57-41d6-8bdd-16aef6cc009d" />
+<img width="791" height="323" alt="image" src="https://github.com/user-attachments/assets/1ee97ed3-b55d-4678-830b-a83e63824dcb" />
 
 ### 5. **Engagement & Attendance**
 - Correlation between **engagement scores, satisfaction levels, and absenteeism**.  
