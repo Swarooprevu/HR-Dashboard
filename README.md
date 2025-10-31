@@ -37,7 +37,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 ### 5. **Engagement & Attendance**
 - Correlation between **engagement scores, satisfaction levels, and absenteeism**.  
 - Identification of departments with **high absence–low performance** patterns.
-<img width="669" height="363" alt="Screenshot 2025-11-01 021908" src="https://github.com/user-attachments/assets/1a2ef533-0320-4170-83f0-b0e2a50cfd3f" />
+<img width="767" height="407" alt="image" src="https://github.com/user-attachments/assets/df51c7b8-8216-4630-9d8d-5ee151f25102" />
 
 ## 📈 Metrics Summary
 
