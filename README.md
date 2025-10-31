@@ -1,4 +1,4 @@
-# HR Analytics Dashboard – Power BI
+![ghostriley](https://github.com/user-attachments/assets/5acbd409-438f-48a9-84ec-bd2f41c0e84b)# HR Analytics Dashboard – Power BI
 
 ## 📊 Project Overview
 The **HR Analytics Dashboard** is an interactive **Power BI project** designed to analyze and visualize workforce data for **data-driven decision-making** in human resource management.  
@@ -15,6 +15,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 ### 1. **Workforce Demographics**
 - Active workforce distribution by **gender, race, marital status, state, and age**.  
 - Visual insights into **organizational diversity and representation**.
+<img width="446" height="394" alt="image" src="https://github.com/user-attachments/assets/f45937fa-e808-4690-b2fd-2cd3d61662cd" />
 
 ### 2. **Compensation & Role Insights**
 - **Average salary analysis** by department and performance score.  
