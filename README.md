@@ -12,7 +12,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 
 ## 🧩 Key Features & Insights
 
-### 1. **Workforce Demographics**
+## 1. **Workforce Demographics**
 - Active workforce distribution by **gender, race, marital status, state, and age**.  
 - Visual insights into **organizational diversity and representation**.
 
