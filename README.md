@@ -26,7 +26,7 @@ It provides a holistic view of **employee demographics, compensation, performanc
 ### 3. **Manager & Team Insights**
 - **Employee distribution** by manager and performance rating.  
 - **Average engagement score and headcount** per manager, highlighting leadership impact.
-<img width="669" height="834" alt="Screenshot 2025-11-01 021823" src="https://github.com/user-attachments/assets/ec2e5038-d229-4a6a-bb10-fa32b72a93bc" />
+<img width="380" height="488" alt="image" src="https://github.com/user-attachments/assets/640f5e1d-9f1e-4702-9e25-a37e967962b8" />
 
 ### 4. **Attrition & Retention**
 - Overall **attrition rate:** ~40% (104 of 311 employees).  
