@@ -10,8 +10,6 @@ It provides a holistic view of **employee demographics, compensation, performanc
 - Identify **high-attrition departments** and **reasons for employee exits**.  
 - Support **data-driven decisions** for talent retention, workforce diversity, and productivity improvement.
 
----
-
 ## 🧩 Key Features & Insights
 
 ### 1. **Workforce Demographics**
@@ -41,8 +39,6 @@ It provides a holistic view of **employee demographics, compensation, performanc
 - Correlation between **engagement scores, satisfaction levels, and absenteeism**.  
 - Identification of departments with **high absence–low performance** patterns.
 
----
-
 ## 📈 Metrics Summary
 
 | **Metric** | **Value** |
@@ -56,22 +52,16 @@ It provides a holistic view of **employee demographics, compensation, performanc
 | **Max Salary** | ₹2,50,000 |
 | **Min Salary** | ₹45,046 |
 
----
-
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop** for data visualization and analytics  
 - **Excel / CSV** data sources for HR datasets  
 - **DAX Measures** for KPI calculations  
 - **Data Modelling** for relational insights (Departments, Employees, Performance)
 
----
-
 ## 💡 Key Takeaways
 - Helps **HR teams identify at-risk employees** and **underperforming departments**.  
 - Provides **actionable insights** into compensation fairness, diversity inclusion, and employee well-being.  
 - Supports **strategic HR decisions** through real-time visualization and interactive filters.
-
----
 
 ## 📂 Project Created By
 **Swaroop Revu**  
